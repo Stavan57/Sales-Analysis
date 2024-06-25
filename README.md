@@ -1,5 +1,5 @@
 # Sales-Analysis
-## Data Cleaning and Transformation Using Power Query
+## Data Cleaning and Transformation Using Power Query Editor
 
 *Cleaning Data: You've likely dealt with missing values, duplicates, or perhaps inconsistent data formats. This is a crucial step to ensure the accuracy of your analyses and visualizations.
 Transformation: Transforming data might have involved pivoting, merging, or aggregating data to make it suitable for analysis. This step can significantly impact the performance and usability of your Power BI reports.
